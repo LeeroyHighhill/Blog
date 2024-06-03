@@ -1,2 +1,13 @@
-Hey I'm Ryan. I'm going to use this for my blog, projects, and other things that I feel like will go good on here.
-Thank you. 
+<header>
+
+<!--
+  <<< Author notes: Course header >>>
+  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+  Add your open source license, GitHub uses MIT license.
+-->
+
+# Ryan's Blog
+This is here to help me post my cybersecurity journey and projects. Hope you enjoy.
+
+</header>
